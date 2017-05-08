@@ -18,4 +18,4 @@ All of the ideas listed here are licensed under https://creativecommons.org/lice
 
 Send it to me and I’ll add it below:
 
-* [https://github.com/mattdsteele/side-projects](@mattdsteele/side-projects)
+* [@mattdsteele/side-projects](https://github.com/mattdsteele/side-projects)
