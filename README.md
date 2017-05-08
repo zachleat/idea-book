@@ -13,3 +13,9 @@ An important part of brainstorming ideas for Side Projects is to have an Idea Bo
 ## License
 
 All of the ideas listed here are licensed under https://creativecommons.org/licenses/by/4.0/ Feel free to take one and work on it!
+
+## Do you have an idea book?
+
+Send it to me and I’ll add it below:
+
+* [https://github.com/mattdsteele/side-projects](@mattdsteele/side-projects)
