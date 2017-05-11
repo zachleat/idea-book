@@ -10,7 +10,7 @@ An important part of brainstorming ideas for Side Projects is to have an Idea Bo
 * [Randsom, a web fonts stress test](https://github.com/zachleat/idea-book/issues/11)
 * [Bernie Tweets, put your tweet on Bernie’s poster](https://github.com/zachleat/idea-book/issues/12)
 
-## License
+## [License](LICENSE)
 
 All of the ideas listed here are licensed under https://creativecommons.org/licenses/by/4.0/ Feel free to take one and work on it!
 
