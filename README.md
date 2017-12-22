@@ -21,3 +21,4 @@ Send it to me and I’ll add it below:
 * [@mattdsteele/side-projects](https://github.com/mattdsteele/side-projects)
 * [@jesseyuen/ideas](https://github.com/jesseyuen/ideas)
 * [@nhoizey/idea-book](https://github.com/nhoizey/idea-book/)
+* [@tzi/idea-book](https://github.com/tzi/idea-book)
