@@ -9,6 +9,7 @@ An important part of brainstorming ideas for Side Projects is to have an Idea Bo
 * [Selecthor, a tool to demo CSS selectors](https://github.com/zachleat/idea-book/issues/10)
 * [Randsom, a web fonts stress test](https://github.com/zachleat/idea-book/issues/11)
 * [Bernie Tweets, put your tweet on Bernie’s poster](https://github.com/zachleat/idea-book/issues/12)
+* [imaging-heap, a Responsive Images Efficiency Analyzer](https://github.com/zachleat/idea-book/issues/3)
 
 ## [License](LICENSE)
 
