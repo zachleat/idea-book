@@ -10,6 +10,7 @@ An important part of brainstorming ideas for Side Projects is to have an Idea Bo
 * [Randsom, a web fonts stress test](https://github.com/zachleat/idea-book/issues/11)
 * [Bernie Tweets, put your tweet on Bernie’s poster](https://github.com/zachleat/idea-book/issues/12)
 * [imaging-heap, a Responsive Images Efficiency Analyzer](https://github.com/zachleat/idea-book/issues/3)
+* [Screenshot Image Service](https://github.com/zachleat/idea-book/issues/23)
 
 ## [License](LICENSE)
 
