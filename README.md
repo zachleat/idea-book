@@ -11,6 +11,7 @@ An important part of brainstorming ideas for Side Projects is to have an Idea Bo
 * [Bernie Tweets, put your tweet on Bernie’s poster](https://github.com/zachleat/idea-book/issues/12)
 * [imaging-heap, a Responsive Images Efficiency Analyzer](https://github.com/zachleat/idea-book/issues/3)
 * [Screenshot Image Service](https://github.com/zachleat/idea-book/issues/23)
+* [Unicode Range Helper](https://github.com/zachleat/idea-book/issues/2)
 
 ## [License](LICENSE)
 
